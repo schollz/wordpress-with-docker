@@ -1,4 +1,7 @@
 # wordpress-with-docker
+
+2 blogs: 360 MB memory EACH, and 3.1G used total (all files)
+
 ### `docker-compose.yml`
 
 ```yaml
